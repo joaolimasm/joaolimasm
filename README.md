@@ -6,7 +6,7 @@
 
 Information about me:
 
-- 💼 working on [PlayBrands Group](https://www.playbrandsgroup.com/)
+- 💼 Working on [PlayBrands Group](https://www.playbrandsgroup.com/)
 - 📫 How to reach me: jv.limasm@gmail.com
 
 <p align="center">
