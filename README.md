@@ -6,7 +6,6 @@
 
 Information about me:
 
-- 💼 Working on [Pagstar](https://www.pagstar.com/)
 - 📫 How to reach me: jv.limasm@gmail.com
 
 <p align="center">
